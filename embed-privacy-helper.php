@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Embed Privacy Shortcode
+ * Plugin Name: Embed Privacy Helper
  * Description: Add shortcode for applying Embed Privacy.
  * Plugin URI:  https://torstenlandsiedel.de
  * Version:     1.0
